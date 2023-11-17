@@ -1,0 +1,14 @@
+.button1{
+    background-color: rgb(255, 216, 20);
+    border-radius: 30px;
+    border: 1px;
+    width: 8%;
+    height: 40px;
+}
+.button2{
+    background-color: rgb(255, 164, 28);
+    border-radius: 30px;
+    border: 1px;
+    width: 8%;
+    height: 40px;
+}
